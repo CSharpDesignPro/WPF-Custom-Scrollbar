@@ -1,5 +1,7 @@
-# WPF-Custom-Scrollbar
+# WPF - Custom Scroll Bar / Scroll Viewer | UI Design | C# |
 
-A Tutorial on " How to design a Custom Scrollbar in WPF "
+How to design a Custom Scrollbar in WPF - https://youtu.be/3GDVWNfdo5A 
 
-Video tutorial on YouTube : https://youtu.be/3GDVWNfdo5A 
+
+
+
