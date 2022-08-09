@@ -1,6 +1,5 @@
 # WPF - Custom Scroll Bar / Scroll Viewer 
 
-<b>GitHub Account</b> : https://github.com/CSharpDesignPro
 
 How to design a Custom Scrollbar in WPF - https://youtu.be/3GDVWNfdo5A 
 
@@ -8,4 +7,5 @@ How to design a Custom Scrollbar in WPF - https://youtu.be/3GDVWNfdo5A
 
 Icon Credits : https://icons8.com/icons
 
+<b>GitHub Account</b> : https://github.com/CSharpDesignPro
 
